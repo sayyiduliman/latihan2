@@ -9,8 +9,8 @@ body{
     overflow: hidden;
     background-color: white;
     height: 80px;
-    padding-left: 125px;
-    padding-right: 125px;
+    padding-left: 150px;
+    padding-right: 150px;
     align-items: center;
     justify-content: space-between;
 }
@@ -39,4 +39,19 @@ body{
 .menu-item:hover {
     background-color: #555;
     color: white; 
+}
+
+#about{
+    padding-left: 150px;
+    padding-right: 150px;   
+}
+
+#service{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#contact{
+    padding-left: 150px;
+    padding-right: 150px;
 }
